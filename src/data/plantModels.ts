@@ -25,7 +25,7 @@ export const plantModels: PlantModel[] = [
     name: 'Trầu Bà Nam Mỹ (Monstera Deliciosa)',
     originalFilename: 'monstera_deliciosa_potted_mid-century_plant.glb',
     modelUrl: '/models/monstera_deliciosa_potted_mid-century_plant.glb',
-    posterUrl: 'https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=600&q=80',
+    posterUrl: 'https://images.unsplash.com/photo-1545241047-6083a3684587?w=600&q=80',
     available: true,
     dimensions: {
       height: '1.2 m',
@@ -59,7 +59,7 @@ export const plantModels: PlantModel[] = [
     name: 'Cây Lan Ý (Peace Lily)',
     originalFilename: 'plant.glb',
     modelUrl: '/models/plant.glb',
-    posterUrl: 'https://images.unsplash.com/photo-1593691512429-7c43f2bac1a2?w=600&q=80',
+    posterUrl: 'https://images.unsplash.com/photo-1709687480677-ca0b7bf5c712?w=600&q=80',
     available: true,
     dimensions: {
       height: '0.6 m',
@@ -76,7 +76,7 @@ export const plantModels: PlantModel[] = [
     name: 'Cây Bàng Singapore (Fiddle Leaf Fig)',
     originalFilename: 'indoor_plant.glb',
     modelUrl: '/models/indoor_plant.glb',
-    posterUrl: 'https://images.unsplash.com/photo-1545241047-6083a3684587?w=600&q=80',
+    posterUrl: 'https://images.unsplash.com/photo-1512428813834-c702c7702b78?w=600&q=80',
     available: true,
     dimensions: {
       height: '1.4 m',
@@ -93,7 +93,7 @@ export const plantModels: PlantModel[] = [
     name: 'Cây Kim Tiền (ZZ Plant)',
     originalFilename: 'indoor_plant2.glb',
     modelUrl: '/models/indoor_plant2.glb',
-    posterUrl: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&q=80',
+    posterUrl: 'https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&q=80',
     available: true,
     dimensions: {
       height: '0.5 m',

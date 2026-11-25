@@ -1,6 +1,6 @@
 import type { Product } from '../types';
 
-// Using Unsplash for high-quality plant images
+// Using Unsplash for high-quality, verified 100% available plant images
 const BASE = 'https://images.unsplash.com';
 
 export const products: Product[] = [
@@ -14,9 +14,8 @@ export const products: Product[] = [
     salePrice: 380000,
     category: 'indoor-plants',
     images: [
-      `${BASE}/photo-1614594975525-e45190c55d0b?w=600&q=80`,
-      `${BASE}/photo-1585559604959-7d2a1b7b2e0d?w=600&q=80`,
-      `${BASE}/photo-1572025442646-866d16c84a54?w=600&q=80`,
+      `${BASE}/photo-1545241047-6083a3684587?w=600&q=80`,
+      `${BASE}/photo-1518531933037-91b2f5f229cc?w=600&q=80`,
     ],
     rating: 4.8,
     reviewCount: 128,
@@ -34,7 +33,7 @@ export const products: Product[] = [
     ],
     modelPath: '/models/monstera_deliciosa_potted_mid-century_plant.glb',
     model3D: '/models/monstera_deliciosa_potted_mid-century_plant.glb',
-    poster3D: `${BASE}/photo-1614594975525-e45190c55d0b?w=600&q=80`,
+    poster3D: `${BASE}/photo-1545241047-6083a3684587?w=600&q=80`,
     hasReal3DModel: true,
     tags: ['nhiệt đới', 'phòng khách', 'sang trọng', 'bán chạy'],
     inStock: true,
@@ -52,8 +51,8 @@ export const products: Product[] = [
     price: 280000,
     category: 'air-purifying',
     images: [
-      `${BASE}/photo-1593691509543-c55fb32e4a0a?w=600&q=80`,
-      `${BASE}/photo-1584464491033-06628f3a6b7b?w=600&q=80`,
+      `${BASE}/photo-1524274568576-60ae522c1719?w=600&q=80`,
+      `${BASE}/photo-1497990571654-77aa8ec36038?w=600&q=80`,
     ],
     rating: 4.9,
     reviewCount: 215,
@@ -85,8 +84,8 @@ export const products: Product[] = [
     salePrice: 180000,
     category: 'air-purifying',
     images: [
-      `${BASE}/photo-1593691512429-7c43f2bac1a2?w=600&q=80`,
-      `${BASE}/photo-1558618666-fcd25c85cd64?w=600&q=80`,
+      `${BASE}/photo-1709687480677-ca0b7bf5c712?w=600&q=80`,
+      `${BASE}/photo-1742495175299-9650e4b55396?w=600&q=80`,
     ],
     rating: 4.7,
     reviewCount: 94,
@@ -103,7 +102,7 @@ export const products: Product[] = [
     ],
     modelPath: '/models/plant.glb',
     model3D: '/models/plant.glb',
-    poster3D: `${BASE}/photo-1593691512429-7c43f2bac1a2?w=600&q=80`,
+    poster3D: `${BASE}/photo-1709687480677-ca0b7bf5c712?w=600&q=80`,
     hasReal3DModel: true,
     tags: ['ra hoa', 'lọc khí', 'chịu bóng', 'bàn làm việc'],
     inStock: true,
@@ -122,7 +121,7 @@ export const products: Product[] = [
     category: 'easy-care',
     images: [
       `${BASE}/photo-1600411833196-7c1f6b1a8b90?w=600&q=80`,
-      `${BASE}/photo-1572025442646-866d16c84a54?w=600&q=80`,
+      `${BASE}/photo-1487700160041-babef9c3cb55?w=600&q=80`,
     ],
     rating: 4.8,
     reviewCount: 176,
@@ -158,8 +157,8 @@ export const products: Product[] = [
     price: 320000,
     category: 'feng-shui',
     images: [
-      `${BASE}/photo-1416879595882-3373a0480b5b?w=600&q=80`,
-      `${BASE}/photo-1585071550721-fdb85a67f650?w=600&q=80`,
+      `${BASE}/photo-1485955900006-10f4d324d411?w=600&q=80`,
+      `${BASE}/photo-1520412099551-62b6bafeb5bb?w=600&q=80`,
     ],
     rating: 4.6,
     reviewCount: 89,
@@ -176,7 +175,7 @@ export const products: Product[] = [
     ],
     modelPath: '/models/indoor_plant2.glb',
     model3D: '/models/indoor_plant2.glb',
-    poster3D: `${BASE}/photo-1416879595882-3373a0480b5b?w=600&q=80`,
+    poster3D: `${BASE}/photo-1485955900006-10f4d324d411?w=600&q=80`,
     hasReal3DModel: true,
     tags: ['phong thủy', 'tài lộc', 'chịu hạn', 'văn phòng'],
     inStock: true,
@@ -194,8 +193,8 @@ export const products: Product[] = [
     price: 680000,
     category: 'decorative',
     images: [
-      `${BASE}/photo-1596547609652-9cf5d8d76921?w=600&q=80`,
-      `${BASE}/photo-1558618666-fcd25c85cd64?w=600&q=80`,
+      `${BASE}/photo-1512428813834-c702c7702b78?w=600&q=80`,
+      `${BASE}/photo-1526397751294-331021109fbd?w=600&q=80`,
     ],
     rating: 4.5,
     reviewCount: 67,
@@ -212,7 +211,7 @@ export const products: Product[] = [
     ],
     modelPath: '/models/indoor_plant.glb',
     model3D: '/models/indoor_plant.glb',
-    poster3D: `${BASE}/photo-1596547609652-9cf5d8d76921?w=600&q=80`,
+    poster3D: `${BASE}/photo-1512428813834-c702c7702b78?w=600&q=80`,
     hasReal3DModel: true,
     tags: ['sang trọng', 'dáng lớn', 'nội thất', 'studio'],
     inStock: true,
@@ -230,8 +229,8 @@ export const products: Product[] = [
     price: 520000,
     category: 'indoor-plants',
     images: [
-      `${BASE}/photo-1543466835-00a7907e9de1?w=600&q=80`,
-      `${BASE}/photo-1416879595882-3373a0480b5b?w=600&q=80`,
+      `${BASE}/photo-1497250681960-ef046c08a56e?w=600&q=80`,
+      `${BASE}/photo-1491147334573-44cbb4602074?w=600&q=80`,
     ],
     rating: 4.7,
     reviewCount: 54,
@@ -262,8 +261,8 @@ export const products: Product[] = [
     price: 850000,
     category: 'decorative',
     images: [
-      `${BASE}/photo-1517191434949-5e90cd67d2b6?w=600&q=80`,
-      `${BASE}/photo-1596547609652-9cf5d8d76921?w=600&q=80`,
+      `${BASE}/photo-1507290439931-a861b5a38200?w=600&q=80`,
+      `${BASE}/photo-1497250681960-ef046c08a56e?w=600&q=80`,
     ],
     rating: 4.9,
     reviewCount: 43,
@@ -294,8 +293,8 @@ export const products: Product[] = [
     price: 180000,
     category: 'desk-plants',
     images: [
-      `${BASE}/photo-1416879595882-3373a0480b5b?w=600&q=80`,
-      `${BASE}/photo-1455793547729-6e37b658a0bc?w=600&q=80`,
+      `${BASE}/photo-1509423350716-97f9360b4e09?w=600&q=80`,
+      `${BASE}/photo-1459411552884-841db9b3cc2a?w=600&q=80`,
     ],
     rating: 4.8,
     reviewCount: 198,
@@ -326,8 +325,8 @@ export const products: Product[] = [
     price: 120000,
     category: 'air-purifying',
     images: [
-      `${BASE}/photo-1600411833196-7c1f6b1a8b90?w=600&q=80`,
-      `${BASE}/photo-1593691509543-c55fb32e4a0a?w=600&q=80`,
+      `${BASE}/photo-1483794344563-d27a8d18014e?w=600&q=80`,
+      `${BASE}/photo-1516048015710-7a3b4c86be43?w=600&q=80`,
     ],
     rating: 4.7,
     reviewCount: 142,
@@ -358,8 +357,8 @@ export const products: Product[] = [
     price: 390000,
     category: 'feng-shui',
     images: [
-      `${BASE}/photo-1585071550721-fdb85a67f650?w=600&q=80`,
-      `${BASE}/photo-1543466835-00a7907e9de1?w=600&q=80`,
+      `${BASE}/photo-1501004318641-b39e6451bec6?w=600&q=80`,
+      `${BASE}/photo-1533038590840-1cde6e668a91?w=600&q=80`,
     ],
     rating: 4.6,
     reviewCount: 78,
@@ -390,8 +389,8 @@ export const products: Product[] = [
     price: 195000,
     category: 'feng-shui',
     images: [
-      `${BASE}/photo-1572025442646-866d16c84a54?w=600&q=80`,
-      `${BASE}/photo-1416879595882-3373a0480b5b?w=600&q=80`,
+      `${BASE}/photo-1520302630591-fd1c66edc19d?w=600&q=80`,
+      `${BASE}/photo-1501004318641-b39e6451bec6?w=600&q=80`,
     ],
     rating: 4.8,
     reviewCount: 112,

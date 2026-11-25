@@ -12,7 +12,7 @@ export const reviews: ProductReview[] = [
       'Cây thực tế đẹp ngỡ ngàng luôn ạ! Đóng gói cực kỳ cẩn thận, tán lá xẻ to và bóng mướt không hề bị gãy dập chiếc lá nào. Mình chọn chậu màu xanh Sage để ở góc sofa phòng khách nhìn sang trọng hẳn ra. Dịch vụ chăm sóc khách hàng tư vấn rất nhiệt tình!',
     date: '2024-01-20',
     verified: true,
-    images: ['https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=400&q=80'],
+    images: ['https://images.unsplash.com/photo-1545241047-6083a3684587?w=400&q=80'],
   },
   {
     id: 'r2',

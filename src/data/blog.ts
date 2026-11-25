@@ -44,7 +44,7 @@ Bón phân hữu cơ vi sinh hoặc phân NPK pha loãng định kỳ mỗi thá
 2. Dựng trụ dớn hoặc cột rêu để rễ khí bám vào, giúp lá sau này xẻ to và dày hơn.
 3. Cắt cành kèm mắt rễ khí cắm vào bình nước để nhân giống cây con cực kỳ đơn giản.
     `,
-    image: 'https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1545241047-6083a3684587?w=800&q=80',
     category: 'plant-care',
     author: 'Nguyễn Thùy Linh',
     authorAvatar: 'https://i.pravatar.cc/150?img=47',
@@ -176,7 +176,7 @@ Khi cây cảnh gặp vấn đề, chúng sẽ gửi gắm tín hiệu qua màu 
 4. **Lá rụng xanh khi đụng nhẹ:** Sốc nhiệt độ do để cây ngay luồng gió phả trực tiếp của máy lạnh.
 5. **Cành dài ngoằng, lá thưa thớt:** Hiện tượng vống do cây đang cố vươn tìm ánh sáng.
     `,
-    image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1512428813834-c702c7702b78?w=800&q=80',
     category: 'plant-health',
     author: 'Nguyễn Thùy Linh',
     authorAvatar: 'https://i.pravatar.cc/150?img=47',
